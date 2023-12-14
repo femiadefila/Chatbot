@@ -13,7 +13,7 @@ body {
 
 .chatbot-toggler {
     position: fixed;
-    bottom: 30px;
+    bottom: 10px;
     right: 35px;
     outline: none;
     border: none;
@@ -44,7 +44,7 @@ body {
   .chatbot {
     position: fixed;
     right: 35px;
-    bottom: 90px;
+    bottom: 70px;
     width: 420px;
     background: #fff;
     border-radius: 15px;
